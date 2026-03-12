@@ -20,5 +20,11 @@ Plan for practical lessons & tasks for students.
    2. Advances interactive visualization with Plotly.
    3. Producing animations with Matplotlib.
 6. The full Data Scientists / Data Miner working pipeline for data processing.
+   1. Loading the data.
+   2. Analyzing, doing transformations and repeating.
+   3. Data tests: z-score, quantiles, data skewness, homo/hetero- scedasticity.
+   4. Useful visualizations.
+   5. Correlation tests to the target variable.
+   6. Removing redundant or noizy features.
 7. Applying the pipeline on the actual data processing trying various ML methods
    (consider Linear Regression, Logistic Regression and Decision Tree).
