@@ -15,6 +15,7 @@ Plan for practical lessons & tasks for students.
    1. Working with Datetime.
    2. Working with categorical data.
    3. Working with other string data.
+   4. Balanced encoding.
 5. Data visualizations.
    1. Advanced visualizations with Seaborn.
    2. Advances interactive visualization with Plotly.
