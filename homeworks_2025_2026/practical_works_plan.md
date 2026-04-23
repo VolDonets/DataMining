@@ -1,4 +1,4 @@
-Plan for practical lessons & tasks for students.
+# Plan for practical tasks for students.
 
 1. Introduction to base Data Science & Data Mining Python libraries (NumPy, Pandas).
    1. Doing base operations with vectors & matrices in NumPy.
@@ -28,4 +28,10 @@ Plan for practical lessons & tasks for students.
    5. Correlation tests to the target variable.
    6. Removing redundant or noizy features.
 7. Applying the pipeline on the actual data processing trying various ML methods
-   (consider Linear Regression, Logistic Regression and Decision Tree).
+   (consider Linear Regression, Logistic Regression and Decision Tree). 
+
+
+# Theoretical lesson (not forgot to do)
+
+1. PCA & t-SNE methods for dim reduction.
+2. 
