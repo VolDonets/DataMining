@@ -33,5 +33,5 @@
 
 # Theoretical lesson (not forgot to do)
 
-1. PCA & t-SNE methods for dim reduction.
+1. PCA, t-SNE & UMAP methods for dim reduction.
 2. 
