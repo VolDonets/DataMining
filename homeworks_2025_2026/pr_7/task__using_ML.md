@@ -40,12 +40,19 @@ using 2D and 3D PCA, t-SNE, UMAP plots
    (True Positives vs. False Positives, etc.). Use `ConfusionMatrixDisplay` or a Seaborn heatmap to make it readable.
 3. Compare the training score vs. the testing score for your models to check for signs of overfitting or underfitting.
 
+### IV. `BONUS TASK` (+2)
+
+Use data produced by PCA, t-SNE and UMAP and train used methods & models.
+Consider different number of target dimensions.
+Make conclusion on applicability of such methods.
+
 ## Important
 
 1. Do your work in sections, which is identical to the task.
 2. Do NOT train your model on the entire dataset and test it on the same dataset, such works will be worth 0 !!! 
    If you can't work with Jupyter Notebook use .py scripts, but your report should be in a .pdf file. 
    Or just ask for help, I'm not a some kind of monster.
+3. Don't forget to leave comments and conclusions.
 
 ## How to get max points without personal work presentation
 
